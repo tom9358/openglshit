@@ -1,0 +1,2 @@
+# openglshit
+tom leert opengl
