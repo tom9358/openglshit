@@ -30,3 +30,11 @@
 *.exe
 *.out
 *.app
+
+# image files
+*.png
+*.raw
+
+#overig
+mountain
+
